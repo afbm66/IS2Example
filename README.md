@@ -1,2 +1,2 @@
 # IS2Example
-repo to paly around with Azure DevOps 
+repo to play around with Azure DevOps 
